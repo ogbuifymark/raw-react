@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: App should match its empty snapshot 1`] = `
+<div>
+  <form
+    className="App"
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      value=""
+    />
+    <button>
+      Submit
+    </button>
+  </form>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      value=""
+    />
+    <button>
+      Search!
+    </button>
+  </form>
+  <button
+    onClick={[Function]}
+  >
+    Click to increment by 1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Click to decrease by 1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Hide number
+  </button>
+  <h2>
+    0
+  </h2>
+  <ul />
+  <div
+    className="sc-bdVaJa hkHmxU"
+  >
+    <p
+      className="sc-bwzfXH ivFfLq"
+    >
+      Get started with styled-components 💅
+    </p>
+  </div>
+  <div
+    className="App"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        onChange={[Function]}
+        value=""
+      />
+      <button>
+        Search!
+      </button>
+    </form>
+    <img
+      alt=""
+      height="200"
+      src=""
+    />
+    <div>
+      Counter value: 
+      0
+    </div>
+    <button
+      onClick={[Function]}
+    >
+      Click1
+    </button>
+  </div>
+</div>
+`;
